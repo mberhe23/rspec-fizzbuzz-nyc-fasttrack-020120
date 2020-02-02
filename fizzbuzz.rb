@@ -20,8 +20,4 @@ def fizzbuzz(int)
 
 end
 
-# fizzbuzz(3) # => You should see a return of "Fizz"
-# fizzbuzz(5) # => You should see a return of "Buzz"
-# fizzbuzz(15) #=> You should see a return of "FizzBuzz"
-# fizzbuzz(4) #=> You should see a return of nil
 
