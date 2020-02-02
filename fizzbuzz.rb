@@ -10,12 +10,12 @@ def fizzbuzz(int)
     "Buzz"
   
   
-  else int % 3 == 0 
+  elsif int % 3 == 0 
     "Fizz" 
     
-
+  else int % 4 == 0
     
-  # if int !% 15,5,3 == 0 
+ 
   end
 
 end
